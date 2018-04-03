@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+
+.carousel-caption{
+    text-shadow: 1px 1px white;
+    color: rgb(31, 23, 104) !important;
+}
+
+.carousel{
+    margin-top: 100px;
+}
+
+.navbar-nav li:hover > ul.dropdown-menu {
+    display: block;
+}
+.dropdown-submenu {
+    position:relative;
+}
+.dropdown-submenu>.dropdown-menu {
+    top:-3px;
+    left:100%;
+    margin-top:-6px;
+}
+
+#feedback, #titulo{
+    text-align: center;
+}
+
+#siguienteFig_bt, canvas{
+    display:block;
+    margin: 0 auto;
+}
+
+#precio{
+    height: 300px;
+    display:block;
+    margin: 0 auto;
+}

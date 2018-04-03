@@ -1,0 +1,22 @@
+<svg width="650" height="100" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="102" width="652" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text font-weight="normal" stroke="#000" transform="matrix(2.56733394014846,0,0,2.93038285354006,-114.00584738615895,-210.7032836285339) " xml:space="preserve" text-anchor="start" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="24" id="svg_4" y="96.673714" x="88.63591" stroke-width="0" fill="#000000">3DLanguageSchool</text>
+  <text font-weight="normal" stroke="#000" transform="matrix(2.56733394014846,0,0,2.93038285354006,-114.00584738615895,-210.7032836285339) " xml:space="preserve" text-anchor="start" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="24" id="svg_3" y="96.503088" x="88.051646" stroke-width="0" fill="#00007f">3DLanguageSchool</text>
+  <text font-weight="normal" stroke="#000" transform="matrix(2.56733394014846,0,0,2.93038285354006,-114.00584738615895,-210.7032836285339) " xml:space="preserve" text-anchor="start" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="24" id="svg_2" y="96.503088" x="87.467383" stroke-width="0" fill="#003f7f">3DLanguageSchool</text>
+  <path stroke="#000" id="svg_8" d="m56.173419,6.9321c-25.957578,0 -46.99998,19.364679 -46.99998,43.24845c0,8.16133 2.487658,15.788467 6.767592,22.302935l-6.767592,18.205243l18.84354,-5.930298c7.852278,5.417945 17.581393,8.673666 28.156437,8.673666c25.957561,0 47.00002,-19.364749 47.00002,-43.251547s-21.042459,-43.24845 -47.00002,-43.24845l0.000003,0zm-7.708253,59.857004l-7.849125,9.622583l-21.586046,-26.488938l21.582825,-26.495143l7.852346,9.644591l-13.733757,16.850551l13.733757,16.866355zm23.738817,9.610045l-7.845897,-9.635162l13.737541,-16.847414l-13.737541,-16.853801l7.845897,-9.635166l21.586076,26.470063l-21.586076,26.50148z" stroke-opacity="null" stroke-width="0.001" fill="#007f7f"/>
+  <line stroke="#007f7f" stroke-width="5" stroke-linecap="null" stroke-linejoin="null" id="svg_13" y2="79.9" x2="293.249992" y1="79.9" x1="86.249989" fill="none"/>
+  <path stroke="#000" id="svg_9" d="m56.173418,5.4321c-25.40529,0 -45.999978,19.028877 -45.999978,42.498478c0,8.019804 2.434731,15.514682 6.623598,21.916184l-6.623598,17.889543l18.442613,-5.827463c7.68521,5.323997 17.207317,8.52326 27.557365,8.52326c25.40527,0 46.000017,-19.028946 46.000017,-42.501524s-20.594747,-42.498478 -46.000017,-42.498478l0,0zm-7.544244,58.819019l-7.682127,9.455724l-21.126761,-26.029595l21.12361,-26.035687l7.685278,9.477343l-13.441552,16.558344l13.441552,16.57387zm23.233728,9.443402l-7.678956,-9.468077l13.445251,-16.555269l-13.445251,-16.561538l7.678956,-9.468077l21.126801,26.011042l-21.126801,26.041917z" stroke-opacity="null" stroke-width="0.001" fill="#00bfbf"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_11" y2="87.4" x2="631.75" y1="86.4" x1="104.25" stroke-opacity="null" stroke-width="0.001" stroke="#000" fill="none"/>
+  <line stroke="#007f7f" stroke-width="5" stroke-linecap="null" stroke-linejoin="null" id="svg_15" y2="79.9" x2="642.750017" y1="79.9" x1="432.750004" fill="none"/>
+  <line stroke="#007f7f" stroke-width="5" stroke-linecap="null" stroke-linejoin="null" id="svg_16" y2="79.9" x2="395.249997" y1="79.9" x1="330.749998" fill="none"/>
+ </g>
+</svg>
